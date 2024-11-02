@@ -1,4 +1,3 @@
-import utime
 from controladorLed import ControladorLed
 from controladorSensor import ControladorSensor
 from controladorOled import ControladorOled
