@@ -1,5 +1,8 @@
-micropython-esp32-stubs
+micropython-esp32-stubs==1.21.0.0
 micropython-stdlib
-micropython-urequests
-micropython-ujson
-micropython-umqtt.simple
+micropython-urequests==0.6.1
+micropython-urllib.parse==0.5.2
+micropython-ujson==3.4.1
+flask==2.0.1
+python-dotenv==0.19.0
+gunicorn==20.1.0
