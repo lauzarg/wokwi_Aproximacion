@@ -1,6 +1,6 @@
 esptool==4.7.0
 adafruit-ampy==1.1.0
-micropython-esp32-stubs==1.21.0.0
+micropython-esp32-stubs
 rshell==0.0.31
 flask==2.0.1
 gunicorn==20.1.0
