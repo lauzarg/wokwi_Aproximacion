@@ -1,0 +1,5 @@
+micropython-esp32-stubs
+micropython-stdlib
+micropython-urequests
+micropython-ujson
+micropython-umqtt.simple
